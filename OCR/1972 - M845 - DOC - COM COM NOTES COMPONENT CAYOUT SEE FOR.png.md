@@ -1,5 +1,5 @@
 # 1972 - M845 - DOC - COM COM NOTES COMPONENT CAYOUT SEE FOR.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1972 (found in this ad: "DATE Nov 72")
@@ -78,7 +78,7 @@ FINISH
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M845/1972 - M845 - DOC - COM COM NOTES COMPONENT CAYOUT SEE FOR.png",
+ "file": "Modules/AMPLIFIERS/M845/MANUALS/1972 - M845 - DOC - COM COM NOTES COMPONENT CAYOUT SEE FOR.png",
  "sha256": "5e5c43d77a61ecc049da777966f8c110256395d38f6fbdad106de7e00d8c27b9",
  "kind": "doc",
  "models": [

@@ -1,5 +1,5 @@
 # 1972 - M845 - DOC - WBSps.ca 20210320 - Scans.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1972 (found in this ad: "DATE Nov 72")
@@ -76,7 +76,7 @@ Q TRANSTEX
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M845/1972 - M845 - DOC - WBSps.ca 20210320 - Scans.jpg",
+ "file": "Modules/AMPLIFIERS/M845/MANUALS/1972 - M845 - DOC - WBSps.ca 20210320 - Scans.jpg",
  "sha256": "2e286ab87b82574b90dda55eb9340da6545434b946e0ca5ce4723b5c2ec71fe3",
  "kind": "doc",
  "models": [
