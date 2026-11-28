@@ -1,5 +1,5 @@
 # 1972 - 845-03-001 - HEAT SINK - DRN GP - ISS 2.jpg
-Wiki page: [M845](../../../../PAGES/M845.md)
+Wiki page: [M845](../)
 
 
 - **Year:** 1972 (title block date)

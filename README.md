@@ -1,6 +1,6 @@
 # M845 5 Volt Regulator · Amplifiers
 
-Ward-Beck Systems M845, 1972|5. Wiki page: [M845 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M845.html)
+Ward-Beck Systems M845, 1972|5. Wiki page: [M845 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M845-5-Volt-Regulator/)
 
 | Folder | What is in it | Files |
 |---|---|---|
